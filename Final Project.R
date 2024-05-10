@@ -2,6 +2,7 @@ if (!require("BiocManager", quietly = TRUE))
   install.packages("BiocManager")
 
 library(fission)# install using BiocManager
+library(rnaseqGene) #install using BiocManager
 library(DESeq2)  # install using BiocManager
 library(pheatmap)
 library(RColorBrewer)
