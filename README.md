@@ -17,7 +17,7 @@ library(RColorBrewer)
 
 data(fission)
 
-dds_o <- DESeqDataSet(fission, design = ~ strain + minute) #probably have to edit
+dds_o <- DESeqDataSet(fission, design = ~ strain + minute) 
 
 rs <- rowSums(assay(fission))
 
