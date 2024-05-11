@@ -7,4 +7,4 @@ Two strains of yeast were exposed to 1M sorbitol treatment for different time pe
 
 Here we show the correlation of gene expression under different time periods of oxidative stress from the wt and mutant strains through the creation of a heatmap. 
 
-![Image](C:\Users\sufya\OneDrive\Pictures\Screenshots\Screenshot 2024-05-10 112647.png)
+![Image](https://1drv.ms/i/c/ec44a000ed3f589b/EeZH8auVwbFFtArfLDH8ocUBBdubGuEYCbX3hzDr1nZKbg?e=IdVVUb)
