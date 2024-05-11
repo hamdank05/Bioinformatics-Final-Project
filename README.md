@@ -6,3 +6,5 @@ Understanding how organisms respond to environmental stresses at the molecular l
 Two strains of yeast were exposed to 1M sorbitol treatment for different time periods. The strains consisted of an unedited wild type and a mutant with deletion of atf21, a key transcription factor implicated in stress response pathways. The strains were exposed to treatment for 0, 15, 30, 60, 120, and 180 minutes.
 
 Here we show the correlation of gene expression under different time periods of oxidative stress from the wt and mutant strains through the creation of a heatmap. 
+
+"C:\Users\sufya\OneDrive\Pictures\Screenshots\Screenshot 2024-05-10 112647.png"
