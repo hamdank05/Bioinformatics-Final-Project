@@ -1,0 +1,9 @@
+## The figure shows the relative fold change between different samples of *Schizosaccharomyces pombe* in gene expression levels under varying times of 1M sorbitol stress treatment.
+
+The time points of treatment included 0, 15, 30, 60, 120, and 180 minutes. 
+
+Samples included wild type and mutant yeast (missing gene atf21)
+
+The color scale represented level of gene expression change (The lighter the color the higher the change)
+
+Branches were clustered according to gene expression similarities
